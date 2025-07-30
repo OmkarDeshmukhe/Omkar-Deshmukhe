@@ -10,9 +10,8 @@ From marketing performance tracking to dashboard creation and SQL optimization, 
 ## 🧠 What I Bring to the Table
 
 - A strong foundation in **SQL** and **Python** for data wrangling and automation  
-- Experience in **Tableau** and **Power BI** for building intuitive, actionable dashboards  
+- Experience in **Tableau** for building intuitive, actionable dashboards  
 - Understanding of **digital marketing data**, **performance metrics**, and **reporting workflows**  
-- Growing interest in **Generative AI**, **Prompt Engineering**, and **LLMs for data**  
 - A mindset focused on **clarity**, **impact**, and **continuous improvement**
 
 ## 🛠️ Tools & Technologies I Work With
@@ -20,10 +19,8 @@ From marketing performance tracking to dashboard creation and SQL optimization, 
 | Category                 | Tools & Skills                                         |
 |--------------------------|--------------------------------------------------------|
 | **Languages & Scripting**| SQL, Python (Pandas, NumPy)                           |
-| **BI & Visualization**   | Tableau, Power BI, Matplotlib, Seaborn                |
-| **Databases**            | MySQL, Snowflake, PostgreSQL                          |
-| **Cloud & AI**           | Basic AWS, Prompt Engineering (LLMs, Gen AI)          |
-| **Workflow & Tools**     | Git, Jupyter Notebook, Excel, VS Code, Asana          |
+| **BI & Visualization**   | Tableau, Matplotlib, Seaborn                          |
+| **Databases**            | MySQL, Snowflake,                                     |
 
 ## 📊 Areas I Enjoy Working On
 
@@ -35,17 +32,14 @@ From marketing performance tracking to dashboard creation and SQL optimization, 
 
 ## 🌱 Currently Learning
 
-- **Advanced SQL performance tuning**  
-- **Using LLMs in analytics workflows**  
-- **Cloud analytics tools** like BigQuery and Redshift  
+- **Advanced SQL performance tuning** 
 - **Data storytelling** to bridge business and technical audiences
 
 ## 📬 Let’s Connect
 
-📧 Email: omkardeshmukhe@gmail.com  
-💼 LinkedIn: [linkedin.com/in/omkardeshmukhe](https://linkedin.com/in/omkardeshmukhe)  
-💻 GitHub: [github.com/omkardeshmukhe](https://github.com/omkardeshmukhe)  
-🌐 Portfolio (if any): *[Add your portfolio link here]*
+📧 Email: omkardeshmukhe1618@gmail.com  
+💼 LinkedIn: [www.linkedin.com/in/dataanalystomkardeshmukhe](https://www.linkedin.com/in/dataanalystomkardeshmukhe/)
+💻 GitHub: [github.com/omkardeshmukhe](https://github.com/omkardeshmukhe)
 
 ---
 
