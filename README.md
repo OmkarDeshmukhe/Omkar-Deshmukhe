@@ -2,7 +2,7 @@
 
 ## 📌 About Me
 
-Welcome to my GitHub!  
+🚀🔍 Welcome to my data adventure!  
 I’m a Data Analyst with 2+ years of experience transforming raw data into valuable insights that support smarter business decisions. I believe that good data analysis is more than just code — it’s about asking the right questions, understanding the business context, and delivering results that matter.
 
 From marketing performance tracking to dashboard creation and SQL optimization, I love working across the data lifecycle to turn noise into clarity.
