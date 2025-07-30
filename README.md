@@ -38,7 +38,7 @@ From marketing performance tracking to dashboard creation and SQL optimization, 
 ## 📬 Let’s Connect
 
 📧 Email: omkardeshmukhe1618@gmail.com  
-💼 LinkedIn: [www.linkedin.com/in/dataanalystomkardeshmukhe](https://www.linkedin.com/in/dataanalystomkardeshmukhe/)
+💼 LinkedIn: [www.linkedin.com/in/dataanalystomkardeshmukhe](https://www.linkedin.com/in/dataanalystomkardeshmukhe/)  
 💻 GitHub: [github.com/omkardeshmukhe](https://github.com/omkardeshmukhe)
 
 ---
